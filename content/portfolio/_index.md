@@ -1,6 +1,6 @@
 ---
-title: PORTFOLIO
-description: 'Portfolio Section'
+title: Realizzazioni
+description: Portfolio Section
 ---
 
 You'll add here a general introduction of your portfolio page.
