@@ -3,6 +3,7 @@ title: Arianna Bianchini Architetto
 description: Welcome to this sample project
 images:
   - /images/sample.jpg
+  - null
 ---
 
 Ciao,
