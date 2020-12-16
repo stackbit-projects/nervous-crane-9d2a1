@@ -1,7 +1,8 @@
 ---
-title: HOME
+title: Arianna Bianchini Architetto
 description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+images:
+  - /images/sample.jpg
 ---
 
 Hey,
